@@ -1,0 +1,290 @@
+[
+    {
+        "id":1,
+        "question":"Qual nome é dado para a série de\r 5 lemas do karate que praticamos?",
+        "a":"DOJO HAJI",
+        "b":"DOJO KUN",
+        "c":"DOJO KEIAN",
+        "d":"KUN DARE",
+        "answer":"b"
+    },
+    {
+        "id":2,
+        "question":"QUEM É CONSIDERADO “O PAI DO KARATE MODERNO”\r POR TER DISSEMINADO O KARATE PELO JAPÃO?",
+        "a":"MESTRE FUNAKOSHI",
+        "b":"MESTRE SHINZATO",
+        "c":"MESTRE MASAHIRO",
+        "d":"MESTRE GOJU",
+        "answer":"a"
+    },
+    {
+        "id":3,
+        "question":"QUAL DAS FRASES ABAIXO MELHOR REPRESENTA \r O SIGNIFICADO DE\"KARATE-DO\"?",
+        "a":"CAMINHO SUAVE",
+        "b":"CAMINHO DO SAMURAI",
+        "c":"CAMINHO DAS MÃOS VAZIAS",
+        "d":"TÉCNICA SUAVE",
+        "answer":"c"
+    },
+    {
+        "id":4,
+        "question":"QUAIS DAS ALTERNATIVAS ABAIXO SE REFEREM \r COMPLETAMENTE A MODALIDADES DE COMPETIÇÃO?",
+        "a":"OKINAWA E SHOTOKAN",
+        "b":"KATA E KUMITE",
+        "c":"KIAI E BUNKAI",
+        "d":"SHORIN E KAMA",
+        "answer":"b"
+    },
+    {
+        "id":5,
+        "question":"EM QUAL PROVÍNCIA JAPONESA ORIGINOU-SE O KARATÊ?",
+        "a":"HOKKAIDÔ",
+        "b":"KYUSHU",
+        "c":"OKAYAMA",
+        "d":"OKINAWA",
+        "answer":"d"
+    },
+    {
+        "id":6,
+        "question":"COMO SE CHAMA O GRITO DADO PELO PRATICANTE DE KARATE AO REALIZAR UM\r ATAQUE OU DEFESA COM O INTUITO DE MAXIMIZAR A ENERGIA DO MOVIMENTO?",
+        "a":"KIAI",
+        "b":"BUNKAI",
+        "c":"SAI",
+        "d":"KIME",
+        "answer":"a"
+    },
+    {
+        "id":7,
+        "question":"EXISTEM PRÁTICAS NOS TREINOS KARATÊ, UMA DELAS É O \"KIHON\".\r\"O KIHON SE CARACTERIZA COMO:",
+        "a":"A PRÁTICA DAS TÉCNICAS FUNDAMENTAIS SEM OPONENTE. OS ATAQUES E AS DEFESAS DEVEM SER PRATICADOS REGULARMENTE, APLICADAS COM A MÁXIMA CONCENTRAÇÃO E ESFORÇO DE UMA MANEIRA RÁPIDA E PRECISA.",
+        "b":"O NOME SIGNIFICA “ARTE SUAVE”. AS AULAS DURAM CERCA DE UMA HORA E TRINTA MINUTOS, QUE É DIVIDIDA ENTRE PREPARO FÍSICO, ENSINO DE NOVOS MOVIMENTOS E LUTAS ENTRE ALUNOS. NAS DUAS PRIMEIRAS PARTES NÃO HÁ SEPARAÇÃO DE FAIXA OU GÊNERO, JÁ NA TERCEIRA, ELES COMBATEM ENTRE SI DE ACORDO COM A FAIXA CONQUISTADA.",
+        "c":"TENDO SEU SIGNIFICADO “CAMINHO DA SUAVIDADE OU DA FLEXIBILIDADE”. AS TURMAS SÃO DIVIDIDAS POR IDADE E FAIXAS, E A TEORIA É ENSINADA JUNTO COM OS MOVIMENTOS. ENTRE OS ADULTOS, COMBATE O ESTRESSE, ALÉM DE ENSINAR A RESPIRAR, TRABALHAR A FORÇA, VELOCIDADE E COORDENAÇÃO.",
+        "d":"TRABALHAR MAIS A FORÇA, O CONTATO COM O SOLO, COM O ADVERSÁRIO, E ENSINAM A ERGUER O OUTRO, LEVANTÁ-LO E ARREMESSÁ-LO CONTRA O CHÃO",
+        "answer":"a"
+    },
+    {
+        "id":8,
+        "question":"SÃO EXERCÍCIOS FORMAIS. É CONSIDERADO UMA LUTA CONTRA ADVERSÁRIOS \r IMAGINÁRIOS, ONDE TODO MOVIMENTO TEM UMA APLICAÇÃO PRÁTICA, DE DEFESA OU DE ATAQUE. \r O CONCEITO ACIMA APRESENTADO SE REFERE A QUAL PRÁTICA DURANTE OS \r TREINOS DE KARATÊ?",
+        "a":"KUMITE",
+        "b":"KATA",
+        "c":"KIHON",
+        "d":"BUNKAI",
+        "answer":"b"
+    },
+    {
+        "id":9,
+        "question":"QUAL DAS OPÇÕES ABAIXO NÃO REPRESENTA O KARATE-DO EM SUA TOTALIDADE?",
+        "a":"NAS AULAS, OS ALUNOS DEVEM REVERENCIAR O DOJÔ, OS MAIS GRADUADOS E O MESTRE, CURVANDO-SE EM PÉ OU NA POSIÇÃO AJOELHADO.",
+        "b":"O KARATÊ É UMA IMPORTANTE FERRAMENTA DE DESENVOLVIMENTO DAS CAPACIDADES FÍSICAS, COMO FLEXIBILIDADE, FORÇA E EQUILÍBRIO, O QUE É DE VITAL IMPORTÂNCIA PARA CRIANÇAS EM FASE ESCOLAR.",
+        "c":"O KARATECA UTILIZA COMO ARMAS AS MÃOS, OS BRAÇOS, AS PERNAS, OS PÉS, ENFIM, QUALQUER PARTE DO CORPO.",
+        "d":"A FILOSOFIA DO KARATÊ ESTÁ DIRECIONADA AO COMBATE DO INIMIGO DE FORMA DE DEMONSTRAR PODER E SUPERAÇÃO.",
+        "answer":"c"
+    },
+    {
+        "id":10,
+        "question":"O KARATÊ RECEBE SUA PRINCIPAL INFLUÊNCIA DE UMA ARTE MARCIAL \r PROVINDA DE OUTRO PAÍS ASIÁTICO. ASSINALE A ALTERNATIVA QUE IDENTIFIQUE \r CORRETAMENTE ESTE PAÍS:",
+        "a":"CHINA",
+        "b":"TAILÂNDIA",
+        "c":"CORÉIA DO SUL",
+        "d":"TAIWAN",
+        "answer":"a"
+    },
+    {
+        "id":11,
+        "question":"É UM DOS COMPONENTES DE TREINAMENTO E DE COMPERTIÇÃO, \r É A LUTA, O COMBATE.\r O CONCEITO ACIMA APRESENTADO SE REFERE A QUAL PRÁTICA DURANTE OS TREINOS DE KARATÊ?",
+        "a":"KIHON",
+        "b":"KATA",
+        "c":"BUNKAI",
+        "d":"KUMITE",
+        "answer":"d"
+    },
+    {
+        "id":12,
+        "question":"\"DEFESA CONTRA ATAQUE NO PEITO, COM O MOVIMENTO EXECUTADO DE FORA PARA DENTRO.\" \rQUAL O NOME DO MOVIMENTO?",
+        "a":"JODAN AGE UKE",
+        "b":"SHUTO UKE",
+        "c":"CHUDAN SOTO UKE",
+        "d":"CHUDAN UCHI UKE",
+        "answer":"c"
+    },
+    {
+        "id":13,
+        "question":"\"DEFESA CONTRA ATAQUE NO PEITO, COM O MOVIMENTO EXECUTADO DE DENTRO PARA FORA.\" \rQUAL O NOME DO MOVIMENTO?",
+        "a":"JODAN AGE UKE",
+        "b":"SHUTO UKE",
+        "c":"CHUDAN SOTO UKE",
+        "d":"CHUDAN UCHI UKE",
+        "answer":"d"
+    },
+    {
+        "id":14,
+        "question":"\"DEFESA USANDO COM A MÃO ABERTA CUJO PONTO DE CONTATO É CHAMADO DE LÂMINA DA MÃO.\" \rQUAL O NOME DO MOVIMENTO?",
+        "a":"JODAN AGE UKE",
+        "b":"SHUTO UKE",
+        "c":"CHUDAN SOTO UKE",
+        "d":"CHUDAN UCHI UKE",
+        "answer":"b"
+    },
+    {
+        "id":15,
+        "question":"OS TREINOS DO KARATÊ-DO TRADICIONAL SÃO DIVIDIDOS EM 3 PRÁTICAS \r PRINCIPAIS. QUAIS SÃO?",
+        "a":"KATA, KIHON E KUMITÊ",
+        "b":"KATA, GEDAN BARAI E KUMITÊ",
+        "c":"SOCHIN, KUMITÊ E KIHON",
+        "d":"HEIAN, TEKKI E HANGETSU ",
+        "answer":"a"
+    },
+    {
+        "id":16,
+        "question":"(\"NO KARATÊ, O _________________ É PRATICADO COM A FINALIDADE DE SE APRENDER TÉCNICAS DE ATAQUE E DEFESA, E MOVIMENTOS CORPORAIS; NESTA FORMA DE PRÁTICA, O ADVERSÁRIO EXISTE APENAS NO OLHO DA MENTE.\"\r ASSINALE A ALTERNATIVA QUE COMPLETA CORRETAMENTE A AFIRMATIVA ANTERIOR.",
+        "a":"KATA",
+        "b":"IPPON",
+        "c":"KUMITE",
+        "d":"MAE HIJI-ATE",
+        "answer":"a"
+    },
+    {
+        "id":17,
+        "question":"QUAIS DAS BASES ABAIXO SÃO UTILIZADAS NA EXECUCAO DO \"HEIAN SHODAN\"",
+        "a":"ZENKUTSU-DACHI E KIBA-DACHI",
+        "b":"KIBA-DACHI E SHIKO-DACHI",
+        "c":"ZENKUTSU-DACHI E KOKUTSU-DACHI",
+        "d":"SANSHIN-DACHI E MOUSUBI-DACHI",
+        "answer":"c"
+    },
+    {
+        "id":18,
+        "question":"O QUE SIGNIFICA O TERMO \"MOKUSO\"",
+        "a":"FOCAR NA RESPIRAÇÃO",
+        "b":"SILÊNCIO E CONCENTRAÇÃO",
+        "c":"AUSÊNCIA DE PENSAMENTO",
+        "d":"FECHAR OS OLHOS",
+        "answer":"b"
+    },
+    {
+        "id":19,
+        "question":"EM QUAL DAS ALTERNATIVAS ABAIXO TEMOS OS TERMOS E SEUS SIGNIFICADOS RESPECTIVOS.",
+        "a":"HIKIASHI = Puxada da mão / HIKITE = Puxada da perna / HAJIME = Atenção / YOI = Começar",
+        "b":"HIKIASHI = Puxada da perna / HIKITE = Puxada da mão / HAJIME = Começar / YOI = Atenção",
+        "c":"HIKIASHI = União de força mental e física / HIKITE = Posição de partida",
+        "d":"HIKIASHI = Posição de partida / HIKITE = União de força mental e física",
+        "answer":"b"
+    },
+    {
+        "id":20,
+        "question":"EM QUAL DAS ALTERNATIVAS ABAIXO TEMOS OS TERMOS E SEUS SIGNIFICADOS RESPECTIVOS.",
+        "a":"HAJIME = Atenção / YOI = Começar  / YAME = Parar",
+        "b":"HAJIME = Começar / YOI = Atenção / YAME = Parar",
+        "c":"HAJIME = Começar / YOI = Parar / YAME = Atenção",
+        "d":"HAJIME = Parar / YOI = Atenção / YAME = Começar",
+        "answer":"b"
+    },
+    {
+        "id":21,
+        "question":"SÃO CONSIDERADOS NOMES REFERENTES A PARTE DO PÉ EXCETO:",
+        "a":"Kakato",
+        "b":"Haisoku",
+        "c":"Uraken",
+        "d":"Sokuto",
+        "answer":"c"
+    },
+    {
+        "id":22,
+        "question":"SÃO CONSIDERADOS NOMES REFERENTES A PARTE DO MAO EXCETO:",
+        "a":"Shuto",
+        "b":"Hiraken",
+        "c":"Haito",
+        "d":"Koshi",
+        "answer":"d"
+    },
+    {
+        "id":23,
+        "question":"SÃO GOLPES DE PUNHO FECHADO EXCETO:",
+        "a":"Seiken",
+        "b":"Teisho",
+        "c":"Uraken",
+        "d":"Kentsui",
+        "answer":"b"
+    },
+    {
+        "id":24,
+        "question":"SÃO GOLPES DE MÃO ABERTA (KAISHO) EXCETO:",
+        "a":"Haito",
+        "b":"Tetsui",
+        "c":"Nukite",
+        "d":"Shuto",
+        "answer":"b"
+    },
+    {
+        "id":25,
+        "question":" É UMA BASE CONHECIDA TAMBÉM COMO POSTURA DO GATO:",
+        "a":" Kiba-dachi",
+        "b":"Neko-ashi-dachi",
+        "c":"Fudo-dachi",
+        "d":"Shiko-dachi",
+        "answer":"b"
+    },
+    {
+        "id":26,
+        "question":"QUAL O SIGNIFICADO DO PRIMEIRO KATA HEIAN SHODAN?",
+        "a":"Atravessar a fortaleza",
+        "b":"Paz e fortaleza nível 1",
+        "c":"Paz e tranquilidade nivel 1",
+        "d":"Contemplar o céu",
+        "answer":"c"
+    },
+    {
+        "id":27,
+        "question":"QUAL O SIGNIFICADO DO TERMO BUNKAI NO KARATE?",
+        "a":"Tipo de defesa utilizada no Kata",
+        "b":"Aplicacoes práticas do Kata",
+        "c":"Paz e harmonia.",
+        "d":"É uma forma de ataque.",
+        "answer":"b"
+    },
+    {
+        "id":28,
+        "question":"QUAL O ESTILO DE KARATE QUE PRATICAMOS?",
+        "a":"OKINAWA-TE",
+        "b":"SHURI-TE",
+        "c":"SHITO-RYU",
+        "d":"SHOTOKAN",
+        "answer":"d"
+    },
+    {
+        "id":29,
+        "question":"QUAL O NOME DO FUNDADOR DO ESTILO QUE PRATICAMOS?",
+        "a":"MORIHEI UESHIBA",
+        "b":"GIGORO JANO",
+        "c":"ANKO ITOSU",
+        "d":"GICHIN FUNAKOSHI",
+        "answer":"d"
+    },
+    {
+        "id":30,
+        "question":"QUAL ERA O PSEUDÔNIMO USADO PELO FUNDADOR DO ESTILO QUE PRATICAMOS PARA ASSINAR SEUS POEMAS?",
+        "a":"SHITO",
+        "b":"SHOTO",
+        "c":"SHUTO",
+        "d":"SHURI",
+        "answer":"b"
+    },
+    {
+        "id":31,
+        "question":"EMBORA SEJA UM ASSUNTO CONTROVERSO, QUAIS SÃO CONSIDERADOS OS TRÊS PRINCIPAIS ESTILOS QUE ORIGINARAM AS DIFERENTES ESCOLAS DE KARATE?",
+        "a":"NAKA-TE, SHORIN-TE E KOMARI-TE",
+        "b":"NAHA-TE, SHORIN-TE E TOMARI-TE",
+        "c":"NAHA-TE, SHURI-TE E TOMARI-TE",
+        "d":"NAKA-TE, SHURI-TE E KOMARI-TE",
+        "answer":"c"
+    },
+    {
+        "id":32,
+        "question":"EM QUE ANO O FUNDADOR DO ESTILO QUE PRATICAMOS FOI CONVIDADO A DEMONSTRAR O KARATE EM UM FESTIVAL DE ARTES MARCIAIS EM TÓKIO?",
+        "a":"1917",
+        "b":"1920",
+        "c":"1922",
+        "d":"1925",
+        "answer":"c"
+    }
+]
